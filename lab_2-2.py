@@ -14,3 +14,5 @@ print(a)
 a=7
 print(a)
 print(b)
+
+#a is now 7 and b is still 3 becaus I changed value of a
